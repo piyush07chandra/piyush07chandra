@@ -1,4 +1,3 @@
-<div style='backgroundColor:black'>
 <h1 align="center">Hi 👋, I'm Piyush Chandra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif"/>
@@ -23,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush07chandra&show_icons=true&locale=en" alt="piyush07chandra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush07chandra&" alt="piyush07chandra" /></p>
-</div>
+
