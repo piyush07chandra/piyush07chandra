@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Chandra</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/piyush07chandra/piyush07chandra/assets/113982578/82351554-2d13-46c0-b536-fc05e0a81af2)](https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif)
+<img align="right" alt="coding" width="400" src="[[![image](https://github.com/piyush07chandra/piyush07chandra/assets/113982578/82351554-2d13-46c0-b536-fc05e0a81af2)](https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif)](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)
 "/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush07chandra&label=Profile%20views&color=0e75b6&style=flat" alt="piyush07chandra" /> </p>
